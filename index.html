@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#112a34">
+<title>The Conversation Deck | Good conversations start here</title>
+<meta name="description" content="80 thoughtful, fun, open-ended conversation prompts for work socials. Pick a category and spark a conversation.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app">
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="The Conversation Deck home"><span class="brand-icon" aria-hidden="true">✳</span><span>THE CONVERSATION<br>DECK</span></a>
+    <button id="showQR" class="iconbutton" aria-label="Show QR code to share the site" title="Share this site"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 3h7v7H3zM14 3h7v7h-7zM3 14h7v7H3zM5.5 5.5h2v2h-2zM16.5 5.5h2v2h-2zM5.5 16.5h2v2h-2zM14 14h3v3h-3zM19 14h2v3h-2zM14 19h3v2h-3zM19 19h2v2h-2z" fill="currentColor"/></svg></button>
+  </header>
+  <main>
+    <section class="intro"><div class="eyebrow">LESS SMALL TALK. MORE CONNECTION.</div><h1>Good conversations <em>start here.</em></h1><p>Pick a question, share a thought, see where the conversation goes. No right answers. No pressure.</p></section>
+    <div class="filters" role="group" aria-label="Choose question category">
+      <button class="chip active" data-filter="all" aria-pressed="true">All cards</button>
+      <button class="chip" data-filter="ice" aria-pressed="false">Break the Ice</button>
+      <button class="chip" data-filter="imagine" aria-pressed="false">Imagine That</button>
+      <button class="chip" data-filter="big" aria-pressed="false">Big Questions</button>
+      <button class="chip" data-filter="ethics" aria-pressed="false">The Ethics Corner</button>
+    </div>
+    <section class="question-wrap" aria-label="Conversation question">
+      <article class="question-card" id="card" tabindex="-1">
+        <div class="card-top"><span class="category-dot" id="categoryDot"></span><span id="categoryName">ALL CATEGORIES</span><span class="card-number" id="cardNumber">01 / 80</span></div>
+        <div class="question-centre"><div class="sparkle" aria-hidden="true">✳</div><h2 id="question">Loading your question…</h2><p class="followup">Go deeper: What makes you say that?</p></div>
+        <div class="card-bottom"><span>THERE'S NO WRONG ANSWER</span><span aria-hidden="true">↗</span></div>
+      </article>
+    </section>
+    <div class="controls"><button class="primary" id="next"><span>Next question</span><span aria-hidden="true">→</span></button><button class="secondary" id="shareCard" aria-label="Share this question" title="Share this question"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16V3m0 0L7 8m5-5 5 5M5 14v6h14v-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button></div>
+    <div class="progress-row"><div><span id="progressText">0 of 80 explored</span><div class="progress-track"><div id="progressBar"></div></div></div><button class="reset" id="reset">Reshuffle this deck</button></div>
+    <p class="tip">Questions are shuffled without repeats within each category selection. Your progress stays on this device.</p>
+  </main>
+  <footer>MADE FOR CURIOUS PEOPLE · <a href="https://github.com/alisterscott/cards">OPEN SOURCE (MIT)</a></footer>
+</div>
+<dialog id="qrDialog" aria-labelledby="qrTitle"><div class="modal"><button class="close" id="closeQR" aria-label="Close QR code">×</button><div class="eyebrow">PASS IT ON</div><h2 id="qrTitle">Bring someone into the conversation.</h2><p>Have them scan this QR code to open the deck on their phone.</p><img class="qr" src="assets/qr.png" width="240" height="240" alt="QR code for alisterscott.github.io/cards/"><div class="url">alisterscott.github.io/cards</div><button class="primary" id="copySite">Copy site link</button></div></dialog>
+<div role="status" aria-live="polite" class="toast" id="toast"></div>
+<script src="app.js" defer></script>
+</body></html>

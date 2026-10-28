@@ -1,0 +1,402 @@
+[
+  {
+    "id": "ice-01",
+    "category": "ice",
+    "question": "What is a small thing that reliably makes an ordinary day better?"
+  },
+  {
+    "id": "ice-02",
+    "category": "ice",
+    "question": "What is a skill you would love to learn just for fun?"
+  },
+  {
+    "id": "ice-03",
+    "category": "ice",
+    "question": "What is the best recommendation someone has given you recently?"
+  },
+  {
+    "id": "ice-04",
+    "category": "ice",
+    "question": "What everyday invention deserves more appreciation?"
+  },
+  {
+    "id": "ice-05",
+    "category": "ice",
+    "question": "What is a place in your city that you think more people should know about?"
+  },
+  {
+    "id": "ice-06",
+    "category": "ice",
+    "question": "What makes a really good weekend for you?"
+  },
+  {
+    "id": "ice-07",
+    "category": "ice",
+    "question": "What is a harmless opinion you could give a five-minute speech about?"
+  },
+  {
+    "id": "ice-08",
+    "category": "ice",
+    "question": "What food would you happily eat every week, and why?"
+  },
+  {
+    "id": "ice-09",
+    "category": "ice",
+    "question": "What is a surprisingly useful thing you have learned from a hobby?"
+  },
+  {
+    "id": "ice-10",
+    "category": "ice",
+    "question": "What is something you loved as a child that you still enjoy?"
+  },
+  {
+    "id": "ice-11",
+    "category": "ice",
+    "question": "What is your favourite way to discover a new book, show or podcast?"
+  },
+  {
+    "id": "ice-12",
+    "category": "ice",
+    "question": "What has made you laugh recently?"
+  },
+  {
+    "id": "ice-13",
+    "category": "ice",
+    "question": "What makes a cafe or gathering place feel welcoming?"
+  },
+  {
+    "id": "ice-14",
+    "category": "ice",
+    "question": "What is an underrated way to spend an hour?"
+  },
+  {
+    "id": "ice-15",
+    "category": "ice",
+    "question": "What is a fun fact you came across that stuck with you?"
+  },
+  {
+    "id": "ice-16",
+    "category": "ice",
+    "question": "What kind of weather puts you in a good mood, and why?"
+  },
+  {
+    "id": "ice-17",
+    "category": "ice",
+    "question": "What is a tradition you would invent for your neighbourhood?"
+  },
+  {
+    "id": "ice-18",
+    "category": "ice",
+    "question": "What is a simple shortcut or tip you wish you had learned sooner?"
+  },
+  {
+    "id": "ice-19",
+    "category": "ice",
+    "question": "What is the most interesting conversation topic you have stumbled into?"
+  },
+  {
+    "id": "ice-20",
+    "category": "ice",
+    "question": "What is something new you have tried lately, big or small?"
+  },
+  {
+    "id": "imagine-01",
+    "category": "imagine",
+    "question": "If every town had a completely unnecessary public holiday, what would yours celebrate?"
+  },
+  {
+    "id": "imagine-02",
+    "category": "imagine",
+    "question": "If you could add a button to every meeting room, what would it do?"
+  },
+  {
+    "id": "imagine-03",
+    "category": "imagine",
+    "question": "If one everyday chore could be done by a friendly robot, which would you choose and why?"
+  },
+  {
+    "id": "imagine-04",
+    "category": "imagine",
+    "question": "If you designed a museum of ordinary life, what would its star exhibit be?"
+  },
+  {
+    "id": "imagine-05",
+    "category": "imagine",
+    "question": "If you could ask a person from 100 years in the future one question, what would it be?"
+  },
+  {
+    "id": "imagine-06",
+    "category": "imagine",
+    "question": "If you could give your younger self a practical lesson, what would you teach?"
+  },
+  {
+    "id": "imagine-07",
+    "category": "imagine",
+    "question": "If your local park could gain one imaginative feature, what would you add?"
+  },
+  {
+    "id": "imagine-08",
+    "category": "imagine",
+    "question": "If you could instantly become excellent at one creative activity, what would you make?"
+  },
+  {
+    "id": "imagine-09",
+    "category": "imagine",
+    "question": "If every job title had to be replaced by a more honest description, what would yours say?"
+  },
+  {
+    "id": "imagine-10",
+    "category": "imagine",
+    "question": "If you ran a tiny festival, what would its theme and headline activity be?"
+  },
+  {
+    "id": "imagine-11",
+    "category": "imagine",
+    "question": "If you could redesign the workday around energy rather than the clock, what would change?"
+  },
+  {
+    "id": "imagine-12",
+    "category": "imagine",
+    "question": "If you were asked to create a new Olympic event, what would it involve?"
+  },
+  {
+    "id": "imagine-13",
+    "category": "imagine",
+    "question": "If you could make one thing in everyday life more playful, what would it be?"
+  },
+  {
+    "id": "imagine-14",
+    "category": "imagine",
+    "question": "If you could spend a day exploring any profession, what would you choose and why?"
+  },
+  {
+    "id": "imagine-15",
+    "category": "imagine",
+    "question": "If you opened a shop that sold only one unusual item, what would it sell?"
+  },
+  {
+    "id": "imagine-16",
+    "category": "imagine",
+    "question": "If you could give your city a new mascot, what would it be and why?"
+  },
+  {
+    "id": "imagine-17",
+    "category": "imagine",
+    "question": "If people could take a short class in any life skill for free, what should be taught?"
+  },
+  {
+    "id": "imagine-18",
+    "category": "imagine",
+    "question": "If you could preserve one modern experience in a time capsule, what would you choose?"
+  },
+  {
+    "id": "imagine-19",
+    "category": "imagine",
+    "question": "If you had to invent an award for a quality people overlook, what would it recognise?"
+  },
+  {
+    "id": "imagine-20",
+    "category": "imagine",
+    "question": "If you could add one positive ritual to every team, what would it be?"
+  },
+  {
+    "id": "big-01",
+    "category": "big",
+    "question": "What does having enough look like in a world that encourages us to want more?"
+  },
+  {
+    "id": "big-02",
+    "category": "big",
+    "question": "How do you recognise a genuinely good day?"
+  },
+  {
+    "id": "big-03",
+    "category": "big",
+    "question": "What makes a conversation feel meaningful rather than merely pleasant?"
+  },
+  {
+    "id": "big-04",
+    "category": "big",
+    "question": "What is the difference between being busy and doing something worthwhile?"
+  },
+  {
+    "id": "big-05",
+    "category": "big",
+    "question": "How can someone know when it is time to change their mind?"
+  },
+  {
+    "id": "big-06",
+    "category": "big",
+    "question": "What makes a place feel like it belongs to everyone?"
+  },
+  {
+    "id": "big-07",
+    "category": "big",
+    "question": "What is something people often mistake for success?"
+  },
+  {
+    "id": "big-08",
+    "category": "big",
+    "question": "When does a routine become comforting, and when does it become limiting?"
+  },
+  {
+    "id": "big-09",
+    "category": "big",
+    "question": "What does it mean to be generous with your attention?"
+  },
+  {
+    "id": "big-10",
+    "category": "big",
+    "question": "How do small acts of courage show up in ordinary life?"
+  },
+  {
+    "id": "big-11",
+    "category": "big",
+    "question": "What makes advice useful rather than intrusive?"
+  },
+  {
+    "id": "big-12",
+    "category": "big",
+    "question": "How do you think people learn to appreciate things they once took for granted?"
+  },
+  {
+    "id": "big-13",
+    "category": "big",
+    "question": "What is the difference between confidence and certainty?"
+  },
+  {
+    "id": "big-14",
+    "category": "big",
+    "question": "What makes a friendship feel easy to maintain over time?"
+  },
+  {
+    "id": "big-15",
+    "category": "big",
+    "question": "How does humour change the way people handle difficult situations?"
+  },
+  {
+    "id": "big-16",
+    "category": "big",
+    "question": "What should we value more highly than efficiency?"
+  },
+  {
+    "id": "big-17",
+    "category": "big",
+    "question": "What is a belief about a good life that changes as people grow older?"
+  },
+  {
+    "id": "big-18",
+    "category": "big",
+    "question": "How can disagreement improve a relationship or a team?"
+  },
+  {
+    "id": "big-19",
+    "category": "big",
+    "question": "What makes curiosity worth protecting as we get older?"
+  },
+  {
+    "id": "big-20",
+    "category": "big",
+    "question": "What does being fair mean when people start with different advantages?"
+  },
+  {
+    "id": "ethics-01",
+    "category": "ethics",
+    "question": "A colleague takes credit for an idea that emerged in a group discussion. What is a fair way to handle it?"
+  },
+  {
+    "id": "ethics-02",
+    "category": "ethics",
+    "question": "A team votes for an activity that a few people strongly dislike. How should majority wishes and minority needs be balanced?"
+  },
+  {
+    "id": "ethics-03",
+    "category": "ethics",
+    "question": "You find a lost wallet with cash and no contact details. What steps would be the most responsible, and why?"
+  },
+  {
+    "id": "ethics-04",
+    "category": "ethics",
+    "question": "A cafe accidentally undercharges you. What factors should guide what you do next?"
+  },
+  {
+    "id": "ethics-05",
+    "category": "ethics",
+    "question": "A friend asks for feedback on a project you think needs major work. How can honesty and kindness coexist?"
+  },
+  {
+    "id": "ethics-06",
+    "category": "ethics",
+    "question": "A colleague is consistently late but delivers excellent work. How should a team think about fairness?"
+  },
+  {
+    "id": "ethics-07",
+    "category": "ethics",
+    "question": "A popular new tool saves time but uses considerably more energy. How should convenience be weighed against its impact?"
+  },
+  {
+    "id": "ethics-08",
+    "category": "ethics",
+    "question": "You have one spare ticket and several interested friends. What would make the allocation fair?"
+  },
+  {
+    "id": "ethics-09",
+    "category": "ethics",
+    "question": "A coworker shares a rumour that could hurt someone. What responsibility do listeners have?"
+  },
+  {
+    "id": "ethics-10",
+    "category": "ethics",
+    "question": "A neighbourhood wants more parking but also more trees. How should competing public benefits be decided?"
+  },
+  {
+    "id": "ethics-11",
+    "category": "ethics",
+    "question": "A group project succeeds largely because of an unnoticed organiser. How should recognition be shared?"
+  },
+  {
+    "id": "ethics-12",
+    "category": "ethics",
+    "question": "A public library has money for either longer opening hours or more books. How should it decide?"
+  },
+  {
+    "id": "ethics-13",
+    "category": "ethics",
+    "question": "A restaurant has one last table and two groups arrived together. What would be the fairest way to choose?"
+  },
+  {
+    "id": "ethics-14",
+    "category": "ethics",
+    "question": "A team can meet a deadline only by reducing the quality of a small feature. How should it decide what to do?"
+  },
+  {
+    "id": "ethics-15",
+    "category": "ethics",
+    "question": "A person follows a rule exactly but produces an unfair result. How should rules and judgement interact?"
+  },
+  {
+    "id": "ethics-16",
+    "category": "ethics",
+    "question": "An event can be cheaper if it excludes some accessibility features. What should organisers prioritise?"
+  },
+  {
+    "id": "ethics-17",
+    "category": "ethics",
+    "question": "An online review is technically accurate but unnecessarily harsh. What makes criticism responsible?"
+  },
+  {
+    "id": "ethics-18",
+    "category": "ethics",
+    "question": "A volunteer always gets the most enjoyable tasks. How should work be allocated fairly?"
+  },
+  {
+    "id": "ethics-19",
+    "category": "ethics",
+    "question": "A company could replace a friendly human service with a faster automated one. What should count as progress?"
+  },
+  {
+    "id": "ethics-20",
+    "category": "ethics",
+    "question": "Someone tells a harmless lie to avoid embarrassing a friend. Where should honesty and compassion meet?"
+  }
+]
